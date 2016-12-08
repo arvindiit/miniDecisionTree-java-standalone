@@ -13,6 +13,7 @@ Not added any third party library
 so test is done by simple main class
 junit jar can be added and main method
 can be replaced with @Test
+In web-version of the application it is applied
 
 Documentation
 +++++++++++++
